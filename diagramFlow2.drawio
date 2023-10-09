@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T04:23:14.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4AGPdzhmH7y8R0zYNXj_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T04:49:21.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JnujzqWCZchOvmXGas1E" version="22.0.4" type="github">
   <diagram name="Page-1" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="2441" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3635" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,32 +22,99 @@
         <mxCell id="sx-M2UbwqZLdCf-bwiqw-6" value="&lt;b&gt;Referensi 3&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2042" y="80" width="165" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" target="oS5DQT6NidROaQdLzgjV-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-1" target="oS5DQT6NidROaQdLzgjV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" target="oS5DQT6NidROaQdLzgjV-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-1" target="oS5DQT6NidROaQdLzgjV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1010" />
+              <mxPoint x="1640" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Rancangan &lt;i&gt;Framework&lt;/i&gt;&amp;nbsp;untuk perbandingan metodologi agile berdasarkan standar &lt;i&gt;Essence&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="320" y="830" width="235" height="110" as="geometry" />
+          <mxGeometry x="452.5" y="850" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Extreme Programming &lt;/i&gt;(XP) vs SCRUM: A &lt;i&gt;Comparison of Agile Models&lt;/i&gt;&lt;br&gt;(Akhtar et al., 2022)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="1260" width="235" height="110" as="geometry" />
+          <mxGeometry x="310" y="1260" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Large-scale Agile Frameworks: &lt;br&gt;A Comparative Review&lt;br&gt;&lt;/i&gt;(Almeida &amp;amp; Espinheira, 2021)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="1420" width="235" height="110" as="geometry" />
+          <mxGeometry x="308" y="1470" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oS5DQT6NidROaQdLzgjV-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Large-scale Agile Frameworks: &lt;br&gt;A Comparative Review&lt;br&gt;&lt;/i&gt;(Almeida &amp;amp; Espinheira, 2021)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="-27.5" y="1260" width="235" height="110" as="geometry" />
+        <mxCell id="oS5DQT6NidROaQdLzgjV-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;A Selection Framework For Agile Methodology Practices: A Family of Methodologies Approach&lt;br&gt;&lt;/i&gt;(Mnkandla, E, 2008)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1305" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Comparative Analysis of &lt;/i&gt;FDD &lt;i&gt;and &lt;/i&gt;SFDD&lt;br&gt;(Anwar et al., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="1260" width="235" height="110" as="geometry" />
+          <mxGeometry x="590" y="1260" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Agile Methods: a comparative analysis&lt;/i&gt;&lt;br&gt;(Strode, n.d, et al., 2006)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="1410" width="235" height="110" as="geometry" />
+          <mxGeometry x="590" y="1470" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Systematic Approach for Mapping Software Development Methods to the Essence Framework&lt;/i&gt;&lt;br&gt;(Giray et al., 2016)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1260" width="235" height="110" as="geometry" />
+          <mxGeometry x="930" y="1260" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Scrum &lt;i&gt;Powered by &lt;/i&gt;Essence&lt;br&gt;(Park et al., 2016)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1410" width="235" height="110" as="geometry" />
+          <mxGeometry x="1190" y="1260" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oS5DQT6NidROaQdLzgjV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1130" width="120" height="60" as="geometry" />
+        <mxCell id="oS5DQT6NidROaQdLzgjV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-11" target="oS5DQT6NidROaQdLzgjV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-11" target="oS5DQT6NidROaQdLzgjV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-11" target="oS5DQT6NidROaQdLzgjV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1420" />
+              <mxPoint x="425" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-11" target="oS5DQT6NidROaQdLzgjV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1420" />
+              <mxPoint x="707" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;br&gt;&lt;b&gt;METHODS COMPARATION&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1070" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-14" target="oS5DQT6NidROaQdLzgjV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;br&gt;&lt;b&gt;METHODS COMPARATION&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1120" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-15" target="oS5DQT6NidROaQdLzgjV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-15" target="oS5DQT6NidROaQdLzgjV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;ESSENTIALIZATION PROCESS&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1070" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="oS5DQT6NidROaQdLzgjV-28" target="oS5DQT6NidROaQdLzgjV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;ESSENCE FRAMEWORK&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1070" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oS5DQT6NidROaQdLzgjV-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Essence Kernel and Language for Software Engineering&lt;/i&gt;&lt;br&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="1522.5" y="1260" width="235" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
