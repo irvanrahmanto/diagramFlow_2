@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T16:27:26.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sHe8GjzyPS9aAtrbcTtX" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T03:51:22.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0GZamhVGJTlpEjaOiRm8" version="22.0.4" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="2970" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
         <mxCell id="oS5DQT6NidROaQdLzgjV-113" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;ESSENTIALIZATION PROCESS&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#f8cecc;strokeColor=#b85450;" parent="oS5DQT6NidROaQdLzgjV-132" vertex="1">
           <mxGeometry x="1060" y="70" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oS5DQT6NidROaQdLzgjV-115" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;ESSENCE FRAMEWORK&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="oS5DQT6NidROaQdLzgjV-132" vertex="1">
+        <mxCell id="oS5DQT6NidROaQdLzgjV-115" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;ESSENCE FRAMEWORK&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="oS5DQT6NidROaQdLzgjV-132" vertex="1">
           <mxGeometry x="1060" y="450" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="oS5DQT6NidROaQdLzgjV-132" source="oS5DQT6NidROaQdLzgjV-94" target="oS5DQT6NidROaQdLzgjV-115" edge="1">
@@ -200,6 +200,33 @@
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="oS5DQT6NidROaQdLzgjV-132" source="oS5DQT6NidROaQdLzgjV-94" target="oS5DQT6NidROaQdLzgjV-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-1" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Body of Knowledge Scope:&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;PROCESSES FRAMEWORK&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="oS5DQT6NidROaQdLzgjV-132">
+          <mxGeometry x="820" y="545" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="oS5DQT6NidROaQdLzgjV-132" source="oS5DQT6NidROaQdLzgjV-94" target="LM1Av1ONTBiPS2Kh1DPP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="385" as="sourcePoint" />
+            <mxPoint x="1160" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;ARTIKEL SATU LAGI YG IRVAN TEMUIN!&lt;/i&gt;&lt;br&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="1990" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;YANG SPEM&lt;/i&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1990" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="LM1Av1ONTBiPS2Kh1DPP-1" target="LM1Av1ONTBiPS2Kh1DPP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2500" y="1685" as="sourcePoint" />
+            <mxPoint x="2500" y="1855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LM1Av1ONTBiPS2Kh1DPP-1" target="LM1Av1ONTBiPS2Kh1DPP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2500" y="1935" as="sourcePoint" />
+            <mxPoint x="2367" y="2000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
