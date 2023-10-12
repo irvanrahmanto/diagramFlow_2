@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T03:51:22.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0GZamhVGJTlpEjaOiRm8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T07:28:36.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rVFao2_DX_lPI9KpMT18" version="22.0.4" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="1770" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1330" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
           <mxGeometry x="40" y="1160" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-132" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1580" y="1300" width="1545" height="630" as="geometry" />
+          <mxGeometry x="1580" y="1300" width="1545" height="690" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-94" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Rancangan &lt;i&gt;Framework&lt;/i&gt;&amp;nbsp;untuk perbandingan metodologi agile berdasarkan standar &lt;i&gt;Essence&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#d5e8d4;strokeColor=#82b366;" parent="oS5DQT6NidROaQdLzgjV-132" vertex="1">
           <mxGeometry x="770" y="235" width="280" height="140" as="geometry" />
@@ -210,10 +210,13 @@
             <mxPoint x="1160" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;ARTIKEL SATU LAGI YG IRVAN TEMUIN!&lt;/i&gt;&lt;br&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-9" value="&lt;div&gt;Elements of a design method - a basis for&lt;/div&gt;&lt;div&gt;describing and evaluating design methods. Design Science, 8.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="oS5DQT6NidROaQdLzgjV-132">
+          <mxGeometry x="1210" y="600" width="305" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Design Science, Elements of a design method - a basis for describing and evaluating design methods&lt;/i&gt;&lt;br&gt;(Gericke et al., 2022)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="2510" y="1990" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;YANG SPEM&lt;/i&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="LM1Av1ONTBiPS2Kh1DPP-5" value="Software &amp;amp; Systems Process Engineering Meta-Model Specification V2.0&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;(Omg., 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="2240" y="1990" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LM1Av1ONTBiPS2Kh1DPP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="LM1Av1ONTBiPS2Kh1DPP-1" target="LM1Av1ONTBiPS2Kh1DPP-5">
