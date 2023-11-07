@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:34:04.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L3XnIgC5X6p7NP0N7JF5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T03:02:56.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-GcESfUw83UUZnX97jrP" version="22.0.8" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="7270" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6156" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,7 +1450,7 @@
         <mxCell id="Y1elWh0_hn98uaNukozN-215" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Times New Roman&quot;&gt;Product Increment&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="shape=card;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="118.15" y="6460.63" width="433.7" height="118.75" as="geometry" />
         </mxCell>
-        <mxCell id="Y1elWh0_hn98uaNukozN-216" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Times New Roman&quot;&gt;Product Backlog&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="shape=card;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=8;" vertex="1" parent="1">
+        <mxCell id="Y1elWh0_hn98uaNukozN-216" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Times New Roman&quot;&gt;Sprint Backlog&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="shape=card;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="740" y="6170" width="433.7" height="118.75" as="geometry" />
         </mxCell>
         <mxCell id="Y1elWh0_hn98uaNukozN-219" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;exitPerimeter=0;" edge="1" parent="1" source="Y1elWh0_hn98uaNukozN-214">
