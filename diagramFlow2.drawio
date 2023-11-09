@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:25:33.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YfL4Ks8jCKLgn-m5J7Gd" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T04:26:28.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="seiQPVCPgGascbjZG-Z3" version="22.1.0" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
     <mxGraphModel dx="10670" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="6270" y="6470" width="3420" height="2490" as="geometry" />
         </mxCell>
         <mxCell id="w7FgfRJQGx5zHoU7i_aV-372" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="7920" y="7590" width="1680" height="720" as="geometry" />
+          <mxGeometry x="7920" y="7590" width="1720" height="720" as="geometry" />
         </mxCell>
         <mxCell id="fmuxi70b6lWoj2px-PWu-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3290" y="2760" width="177" height="105" as="geometry" />
@@ -3132,7 +3132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w7FgfRJQGx5zHoU7i_aV-365" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 70px;&quot;&gt;Essence &lt;br&gt;&lt;i&gt;Framework&lt;/i&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="8930" y="7590" width="590" height="340" as="geometry" />
+          <mxGeometry x="9030" y="7588.75" width="590" height="340" as="geometry" />
         </mxCell>
         <mxCell id="w7FgfRJQGx5zHoU7i_aV-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-367" target="w7FgfRJQGx5zHoU7i_aV-375">
           <mxGeometry relative="1" as="geometry" />
@@ -3149,8 +3149,8 @@
             <mxPoint x="7130" y="7340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-374" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Perbandingan Metodologi&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8380" y="7590" width="660" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-374" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 60px;&quot;&gt;Perbandingan Metodologi&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8390" y="7610" width="690" height="110" as="geometry" />
         </mxCell>
         <mxCell id="w7FgfRJQGx5zHoU7i_aV-375" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 65px;&quot;&gt;New Complete Method based on Essence&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="8030" y="8440" width="680" height="340" as="geometry" />
