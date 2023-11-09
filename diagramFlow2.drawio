@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T06:17:53.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yt_U6q1IMe2GUA8BIm-W" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T07:37:03.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KbozRJzkCMsqV7Vx1-Z1" version="22.1.0" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="8283" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7125" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           <mxGeometry x="40" y="1160" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-132" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1580" y="1300" width="1545" height="690" as="geometry" />
+          <mxGeometry x="1580" y="1300" width="1545" height="735" as="geometry" />
         </mxCell>
         <mxCell id="oS5DQT6NidROaQdLzgjV-94" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Rancangan &lt;i&gt;Framework&lt;/i&gt;&amp;nbsp;untuk perbandingan metodologi agile berdasarkan standar &lt;i&gt;Essence&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#d5e8d4;strokeColor=#82b366;" parent="oS5DQT6NidROaQdLzgjV-132" vertex="1">
           <mxGeometry x="770" y="235" width="280" height="140" as="geometry" />
@@ -3435,26 +3435,99 @@
             <mxPoint x="567.5" y="23220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-682" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Rancangan framework&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="4710" y="1285" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-691" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i style=&quot;&quot;&gt;NEED TO STUDY&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;Rancangan &lt;i&gt;&lt;b&gt;Framework &lt;/b&gt;&lt;/i&gt;untuk perbandingan metodologi agile berdasarkan standar &lt;i&gt;essence&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="5130" y="1830" width="230" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-683" value="&lt;font face=&quot;Times New Roman&quot;&gt;Desain Framework&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="4750" y="1480" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-692" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-style: italic;&quot;&gt;Essentialization Process&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Giray dkk, 2016)&lt;br&gt;(Park dkk, 2016)&lt;br&gt;(Tüzün, Eray dkk, 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5720" y="1771" width="230" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-684" value="&lt;font face=&quot;Times New Roman&quot;&gt;Agile Methodologies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="4220" y="1480" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-703" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-697">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-685" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Essence framework&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="5443" y="1480" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-704" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-699">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-686" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;NEED TO STUDY&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Rancangan&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Framework&lt;/i&gt;&amp;nbsp;untuk perbandingan metodologi agile berdasarkan standar&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Essence&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="4720" y="1740" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-705" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-698">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-687" value="&lt;font face=&quot;Times New Roman&quot;&gt;Desain Metode&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="4485" y="1500" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-706" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-700">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7FgfRJQGx5zHoU7i_aV-688" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perbandingan Metodologi&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="5065" y="1490" width="235" height="110" as="geometry" />
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-707" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-701">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-722" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-695" target="w7FgfRJQGx5zHoU7i_aV-691">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5060" y="1669" />
+              <mxPoint x="5060" y="1888" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-695" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Agile &lt;i&gt;Software Development Methods&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4686.5" y="1611" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-714" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-696" target="w7FgfRJQGx5zHoU7i_aV-712">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-729" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-696" target="w7FgfRJQGx5zHoU7i_aV-717">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-730" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-696" target="w7FgfRJQGx5zHoU7i_aV-702">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-696" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Framework&amp;nbsp;&lt;/i&gt;Perbandingan &lt;br&gt;Metodologi Agile&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5130" y="1210" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-697" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Scrum&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Black dkk, 2017)&lt;br&gt;(Ashraf &amp;amp; Aftab, 2017)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="1771" width="192.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-698" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Extreme Programming&lt;/i&gt;&lt;b&gt;&amp;nbsp;(XP)&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Beck, 1999)&lt;br&gt;(Shriuvastava dkk, 2021)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="1901" width="192.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-699" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Feature &lt;br&gt;Driven-Development (&lt;/i&gt;&lt;b&gt;FDD)&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Ahmed Khan dkk, 2018)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4842.5" y="1771" width="192.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-700" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Dynamic System Development Method &lt;/i&gt;&lt;b&gt;(DSDM)&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Sani dkk, 2013)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4842.5" y="1893.5" width="192.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-701" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-style: italic;&quot;&gt;LEAN / KANBAN&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Merzouk dkk, 2013)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4705.25" y="2031" width="192.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-709" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-702" target="w7FgfRJQGx5zHoU7i_aV-695">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-702" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Agile &lt;/b&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Methodologies&lt;/i&gt;&lt;br&gt;&lt;br&gt;(Ward Cunningham, 2001)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="4686.5" y="1420" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-713" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-712" target="w7FgfRJQGx5zHoU7i_aV-693">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-712" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Perbandingan Metodologi&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Akhtar dkk, 2022)&lt;br&gt;(Anwar dkk, 2018)&lt;br&gt;(Almeida &amp;amp; Espinheira, 2021)&lt;br&gt;Strode, n,d, et al., 2006)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5130" y="1420" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-723" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-693" target="w7FgfRJQGx5zHoU7i_aV-691">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-693" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Desain &lt;/b&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Framework &amp;amp; &lt;/i&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Metodologi&lt;/span&gt;&lt;br&gt;&lt;br&gt;(Omg SPEM, 2008)&lt;br&gt;(Gericke dkk, 2022)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5130" y="1610" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-725" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-716" target="w7FgfRJQGx5zHoU7i_aV-691">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5320" y="1897.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-726" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-716" target="w7FgfRJQGx5zHoU7i_aV-692">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-716" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-style: italic;&quot;&gt;Essence Framework&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Omg, 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5440.47" y="1610" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-719" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7FgfRJQGx5zHoU7i_aV-717" target="w7FgfRJQGx5zHoU7i_aV-716">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-717" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Standar Kelengkapan &lt;br&gt;Metodologi&lt;br&gt;&lt;/b&gt;&lt;br&gt;(Omg, 2018)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="5440" y="1420" width="230" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
