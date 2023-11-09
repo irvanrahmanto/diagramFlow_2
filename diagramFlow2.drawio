@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:26:28.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="seiQPVCPgGascbjZG-Z3" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T06:17:53.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yt_U6q1IMe2GUA8BIm-W" version="22.1.0" type="github">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="10670" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8283" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3434,6 +3434,27 @@
             <mxPoint x="567.5" y="26283" as="sourcePoint" />
             <mxPoint x="567.5" y="23220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-682" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Rancangan framework&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="1285" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-683" value="&lt;font face=&quot;Times New Roman&quot;&gt;Desain Framework&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="4750" y="1480" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-684" value="&lt;font face=&quot;Times New Roman&quot;&gt;Agile Methodologies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="1480" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-685" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Essence framework&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="5443" y="1480" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-686" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;NEED TO STUDY&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Rancangan&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Framework&lt;/i&gt;&amp;nbsp;untuk perbandingan metodologi agile berdasarkan standar&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Essence&lt;/i&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="1740" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-687" value="&lt;font face=&quot;Times New Roman&quot;&gt;Desain Metode&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="4485" y="1500" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w7FgfRJQGx5zHoU7i_aV-688" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perbandingan Metodologi&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="5065" y="1490" width="235" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
