@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T08:55:13.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Sn7xNRUU0jRbyJYnDReF" version="22.1.0" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:29:49.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JnlEis7p16-45iNVAjby" version="22.1.0" type="device">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="17290" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="22610" dy="3347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5853,6 +5853,165 @@
         </mxCell>
         <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-911" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-909">
           <mxGeometry x="6.5" y="10.75" width="17" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-915" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="11069.07" y="6486.24" width="3420" height="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-916" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="12719.07" y="7606.24" width="1720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-917" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-918">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11990" y="6756" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-918" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10101" y="6585.62" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-919" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=91.405;exitPerimeter=0;strokeWidth=5;dashed=1;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-921">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11969.07" y="7287.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-920" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-921" target="EZ0tX4GGhvNKE-8SfDlQ-941">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-921" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Melakukan &lt;br&gt;&lt;i style=&quot;&quot;&gt;Essentialization Process&lt;/i&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="12139.999999999998" y="7196.24" width="456.44" height="335.62" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-922" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Memilih metodologi Scrum dan &lt;i&gt;Extreme Programming&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="11989.07" y="6575.62" width="740" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-923" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10111" y="6596.24" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-924" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Mengembangkan &lt;i&gt;support system&lt;/i&gt;&amp;nbsp;perangkat lunak dalam siklus pengembangan perangkat lunak&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10121" y="6605.62" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-926" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="11209.07" y="7026.24" width="760" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-927" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry width="754.02" height="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-928" value="&lt;i&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Essentialization Process&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="47.95" y="66.3" width="658.13" height="66.3" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-929" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 45px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Extract concept from method specification&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="99.79724598930477" y="198.8888888888889" width="532.2519786096256" height="154.6913580246914" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-930" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926" source="EZ0tX4GGhvNKE-8SfDlQ-929" target="EZ0tX4GGhvNKE-8SfDlQ-931">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-931" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 45px;&quot;&gt;Classify extracted concepts according to Essence concept&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="94.25295454545456" y="430.0040740740741" width="543.3405614973259" height="154.6913580246914" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-932" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 45px;&quot;&gt;Specify concept using Essence Language&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="94.25295454545456" y="649.9992592592595" width="543.3405614973259" height="154.6913580246914" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-933" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 45px;&quot;&gt;Specify properties of concepts&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="94.25295454545456" y="879.9956790123456" width="543.3405614973259" height="132.5925925925926" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-934" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 45px;&quot;&gt;Associate related concepts&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="94.25295454545456" y="1080.0020987654325" width="543.3405614973259" height="132.5925925925926" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-935" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 45px;&quot;&gt;Review essentialized method&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926">
+          <mxGeometry x="94.25295454545456" y="1279.998518518519" width="543.3405614973259" height="154.6913580246914" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-936" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926" source="EZ0tX4GGhvNKE-8SfDlQ-931" target="EZ0tX4GGhvNKE-8SfDlQ-932">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-937" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926" source="EZ0tX4GGhvNKE-8SfDlQ-932" target="EZ0tX4GGhvNKE-8SfDlQ-933">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-938" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926" source="EZ0tX4GGhvNKE-8SfDlQ-933" target="EZ0tX4GGhvNKE-8SfDlQ-934">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-939" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="EZ0tX4GGhvNKE-8SfDlQ-926" source="EZ0tX4GGhvNKE-8SfDlQ-934" target="EZ0tX4GGhvNKE-8SfDlQ-935">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-940" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-941" target="EZ0tX4GGhvNKE-8SfDlQ-945">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-941" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;Scrum &amp;amp; XP&lt;i style=&quot;&quot;&gt; essentialized &lt;br&gt;by Essence&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="12809.07" y="7191.86" width="720" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-942" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-943" target="EZ0tX4GGhvNKE-8SfDlQ-945">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14154.07" y="8028.24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-943" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;Essence &lt;br&gt;&lt;i style=&quot;&quot;&gt;Framework&lt;/i&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="13829.07" y="7604.99" width="590" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-944" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-945" target="EZ0tX4GGhvNKE-8SfDlQ-949">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-945" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 65px;&quot;&gt;Compare &lt;/i&gt;&lt;span style=&quot;font-size: 65px;&quot;&gt;Scrum &amp;amp; XP&lt;/span&gt;&lt;i style=&quot;font-size: 65px;&quot;&gt; Essentialized Method&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="12829.07" y="7858.12" width="680" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-946" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-945" target="EZ0tX4GGhvNKE-8SfDlQ-943">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-947" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;dashed=1;" edge="1" parent="1" target="EZ0tX4GGhvNKE-8SfDlQ-921">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11969.07" y="7351.24" as="sourcePoint" />
+            <mxPoint x="11929.07" y="7356.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-948" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 60px;&quot;&gt;Perbandingan Metodologi&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13189.07" y="7626.24" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-949" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 65px;&quot;&gt;New Complete Method based on Essence&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="12804.07" y="8436.24" width="730" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-951" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10101" y="7009.379999999999" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-952" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10111" y="7019.999999999999" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-959" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-953">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11990" y="6756" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10951" y="7199" />
+              <mxPoint x="10951" y="6756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-953" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Memilih metodologi yang paling lengkap berdasarkan kebutuhan penggunanya terhadap tim&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10121" y="7029.379999999999" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-954" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10101" y="6150" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-955" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Melakukan perbandingan antar metodologi agile &lt;br&gt;untuk menilai dan memilih metodologi &lt;br&gt;yang paling lengkap&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10111" y="6160.62" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-957" value="&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.527;entryDx=0;entryDy=0;strokeWidth=5;entryPerimeter=0;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-956" target="EZ0tX4GGhvNKE-8SfDlQ-922">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11900.07" y="6755.619999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10951" y="6340" />
+              <mxPoint x="10951" y="6756" />
+              <mxPoint x="11988" y="6756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-956" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Melakukan perbandingan antar metodologi untuk memilih metode yang paling lengkap&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="10121" y="6170" width="509.07" height="339.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ0tX4GGhvNKE-8SfDlQ-960" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="EZ0tX4GGhvNKE-8SfDlQ-922" target="EZ0tX4GGhvNKE-8SfDlQ-921">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="12350" y="6916" />
+              <mxPoint x="12350" y="7080" />
+              <mxPoint x="12352" y="7080" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
