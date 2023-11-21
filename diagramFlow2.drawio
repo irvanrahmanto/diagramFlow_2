@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T10:12:52.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TY9vIBBgQXE13iIgh8JI" version="22.1.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-21T10:15:08.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UJqONo4CQgUP7GebpwoT" version="22.1.2" type="device">
   <diagram name="diagram" id="BHe6oSJqp_chcnyo8-ia">
-    <mxGraphModel dx="17323" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="17543" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6082,37 +6082,37 @@
           <mxGeometry x="8580" y="3777.5" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-14" value="&lt;b&gt;4. Validasi &lt;i&gt;Framework&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8995" y="3290" width="240" height="70" as="geometry" />
+          <mxGeometry x="8911.25" y="3290" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="EyOMI-rfg8x8wczEOnmB-15" target="EyOMI-rfg8x8wczEOnmB-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Aktivitas:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Membuat dan mendefinisikan skenario penggunaan terhadap validasi &lt;i&gt;frameworks &lt;/i&gt;untuk melakukan perbandingan metodologi agile&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Hasil:&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan validasi rancangan&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;frameworks&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dengan menggunakan&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;frameworks&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;untuk membandingkan metodologi agile&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8980" y="3380" width="270" height="180" as="geometry" />
+          <mxGeometry x="8896.25" y="3380" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="EyOMI-rfg8x8wczEOnmB-16" target="EyOMI-rfg8x8wczEOnmB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-16" value="&lt;b&gt;3. &lt;i&gt;Design&lt;/i&gt; &amp;amp; &lt;i&gt;Development&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8995" y="3610" width="240" height="70" as="geometry" />
+          <mxGeometry x="8911.25" y="3615" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-17" value="&lt;b&gt;Aktivitas&lt;/b&gt;&lt;br&gt;1. Melakukan analisis perbandingan metode&lt;br&gt;2. Melakukan kelengkapan metode&lt;br&gt;3. Melakukan analisis proses esensialisasi&lt;br&gt;4. Melakukan analisis kebutuhan &lt;i&gt;framework&lt;/i&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Hasil:&lt;br&gt;&lt;/b&gt;1. Usulan rancangan &lt;i&gt;framework&lt;/i&gt;&amp;nbsp;untuk melakukan perbandingan metodologi agile" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="8983.75" y="3695" width="262.5" height="175" as="geometry" />
+          <mxGeometry x="8900" y="3700" width="262.5" height="175" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-18" value="&lt;b&gt;5. Evaluasi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9360" y="3350" width="240" height="70" as="geometry" />
+          <mxGeometry x="9205" y="3430" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="EyOMI-rfg8x8wczEOnmB-19" target="EyOMI-rfg8x8wczEOnmB-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-19" value="&lt;b&gt;Aktivitas:&lt;/b&gt;&lt;br&gt;1. Melakukan analisis secara kualitatif terhadap implementasi dan rancangan&amp;nbsp;&lt;i&gt;frameworks&lt;/i&gt;&amp;nbsp;yang dibangun&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Hasil:&lt;/b&gt;&lt;br&gt;Hasil analisis berupa kesimpulan serta saran terhadap rencana pengembangan terhadap&amp;nbsp;&lt;i&gt;framework&lt;/i&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="9360" y="3440" width="240" height="160" as="geometry" />
+          <mxGeometry x="9205" y="3520" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-20" value="&lt;b&gt;6. Komunikasi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9360" y="3650" width="240" height="70" as="geometry" />
+          <mxGeometry x="9205" y="3730" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EyOMI-rfg8x8wczEOnmB-21" value="Membuat dokumentasi penelitian berupa laporan tesis, penulisan jurnal, seminar tesis dan sidang tesis" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="9360" y="3730" width="240" height="160" as="geometry" />
+          <mxGeometry x="9205" y="3810" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
